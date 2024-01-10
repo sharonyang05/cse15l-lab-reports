@@ -75,8 +75,8 @@ en-us.txt  es-mx.txt  new.txt  zh-cn.txt
 ```
 * working directory was /home/lecture1
 * terminal prints nothing; prompt also does not return
-* process has to be manually ended with `Ctrl + C`
-* 
+* is an error; terminal doesn't print any content as user gives no input on what should be printed
+* additionally, the process cannot end on its own, has to be manually stopped with `Ctrl + C`
 
 **path to directory**
 ```
@@ -84,7 +84,10 @@ en-us.txt  es-mx.txt  new.txt  zh-cn.txt
 cat: /home/lecture1/: Is a directory
 [user@sahara ~/lecture1]$
 ```
-*
+* working directory was /home/lecture1
+* terminal prints error message that lecture1 is a directory
+* cat can only print out contents of files
+* is an error; cat not used correctly, intended purpose is to print contents of files
 
 **path to file**
 ```
@@ -92,4 +95,6 @@ cat: /home/lecture1/: Is a directory
 Hello World!
 [user@sahara ~/lecture1]$
 ```
-*
+* working directory was /home/lecture1
+* terminal prints content of en-us.txt as expected
+* not an error
