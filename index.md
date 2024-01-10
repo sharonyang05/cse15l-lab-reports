@@ -16,7 +16,7 @@
 
 ---
 
-used ` ls ` today
+used `ls` today
 
 and
 ```
