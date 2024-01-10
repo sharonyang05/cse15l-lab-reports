@@ -1,9 +1,10 @@
 # 'ello
 
-*nothing* to see [here] (https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-[yuh] (https://upload.wikimedia.org/wikipedia/en/5/53/Snoopy_Peanuts.png)
+*nothing* to see [here](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+[yuh](https://upload.wikimedia.org/wikipedia/en/5/53/Snoopy_Peanuts.png)
 
 > money is power
+
 **francis bacon**
 
 * yes
@@ -15,10 +16,10 @@
 
 ---
 
-used ' ls ' today
+used ` ls ` today
 
 and
-'''
+```
 javac Hello.java
 java Hello
-'''
+```
