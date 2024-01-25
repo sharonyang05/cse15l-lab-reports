@@ -42,18 +42,18 @@ class ChatServer {
 }
 ```
 
-![Image](https://github.com/sharonyang05/cse15l-lab-reports/blob/main/chatserver1.png)
+![Image](chatserver1.png)
 - calls `handleRequest`, where the url is the argument
 - updates `chat` from empty by string concatenation
 
-![Image](https://github.com/sharonyang05/cse15l-lab-reports/blob/main/chatserver2.png)
+![Image](chatserver2.png)
 - calls `handleRequest`, where the url is the argument
 - also updates `chat`
 
 # pt 2
-![Image](https://github.com/sharonyang05/cse15l-lab-reports/blob/main/ls-key-paths.png)
-![Image](https://github.com/sharonyang05/cse15l-lab-reports/blob/main/ls-key-path-public.png)
-![Image](https://github.com/sharonyang05/cse15l-lab-reports/blob/main/ieng-no-pw.png)
+![Image](ls-key-paths.png)
+![Image](ls-key-path-public.png)
+![Image](ieng-no-pw.png)
 
 # pt 3
 I knew very little about the concept of ports prior to last week's lab. I also thought little about how urls were processed in general, so it was helpful to have the comparison to file paths, as well as the breakdown of what functions different parts of the url serve.
