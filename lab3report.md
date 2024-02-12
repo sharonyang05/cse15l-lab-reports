@@ -50,7 +50,7 @@ class ChatServer {
 
 ![Image](chatserver2.png)
 - calls `handleRequest`, where the url is the argument
-- also updates `chat` from `"joe: hello\n"` to `"joe: hello\ngerald: wow amazing"`
+- also updates `chat` from `"joe: hello\n"` to `"joe: hello\ngerald: wow amazing\n"`
 
 
 # pt 2
