@@ -45,17 +45,17 @@ class ChatServer {
 ![Image](chatserver1.png)
 
 - calls `handleRequest`, where the url is the argument
-- updates `chat` from empty by string concatenation
+- updates `chat` from empty to `"joe: hello\n"`
 
 
 ![Image](chatserver2.png)
 - calls `handleRequest`, where the url is the argument
-- also updates `chat`
+- also updates `chat` from `"joe: hello\n"` to `"joe: hello\ngerald: wow amazing"`
 
 
 # pt 2
 private key
-![Image](ls-key-paths.png)
+![Image](ls-public-key.png)
 
 public key
 ![Image](ls-key-path-public.png)
