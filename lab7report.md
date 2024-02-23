@@ -2,12 +2,16 @@
 
 **step 4: ssh login**
 
+![Image](lab7images/)
+
 keys pressed: `<up><enter>`
+
 the ssh login was the last command i'd run on this terminal, so i simply went up one line in my history and entered the command.
 
 **step 5: clone repo**
 
 keys pressed: `git clone <ctrl>v<enter>`
+
 i typed `git clone`, then pasted the `SSH` clone URL i had copied from github.
 
 **step 6: run test**
